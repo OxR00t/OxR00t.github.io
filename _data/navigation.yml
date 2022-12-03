@@ -8,6 +8,8 @@ main:
     url: /categories/#graduation-project-diary
   - title: "Writeups"
     url: /categories/#writeups
+  - title: "Projects"
+    url: /categories/#projects
   - title: "All Categories"
     url: /categories
   # - title: "Sample Posts"
