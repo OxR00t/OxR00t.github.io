@@ -123,7 +123,7 @@ It's Important to be careful with claims, so don't put sensitive information in 
 
 The **signature** is the most important part that ensures that the token hasn’t been altered. To create the signature, the Base64-encoded header and payload are taken, along with a `secret`, and signed with the algorithm specified in the header.
 
-```json
+```
 HMACSHA512(
   base64UrlEncode(header) + "." +
   base64UrlEncode(payload),
@@ -189,7 +189,7 @@ def api_auth():
 	    # Generate the JWT response
         jwt_response = generate_jwt(SECRET_KEY)
         return jwt_response
-    elif key != app.config["SECRET_KEY"]:
+    elif key != API_KEY:
         return {"data": {"message": "invalid api key", "code": 400}}
 ```
 
