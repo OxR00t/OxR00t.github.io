@@ -2,7 +2,7 @@
 title: "Head First Java 5th Edition Review"
 classes: wide
 header:
-  teaser: /assets/images/Blogs/Books-Review/Head-First-Java.png
+  teaser: /assets/images/Blogs/Graduation-Project-Diray/Git-And-GitHub-Part-1/thumbnail.png
 ribbon: ForestGreen
 description: "Reviewing Head First Java 5th Edition Book"
 categories:
