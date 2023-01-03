@@ -1,15 +1,15 @@
 # main links
 main:
   - title: "Books Review"
-    url: /categories/#books-review
+    url: /categories/#books-review/
   - title: "Python"
-    url: /categories/#python
+    url: /categories/#python/
   - title: "Graduation Project Diary"
-    url: /categories/#graduation-project-diary
+    url: /categories/#graduation-project-diary/
   - title: "Projects"
-    url: /categories/#projects
+    url: /categories/#projects/
   - title: "Cybersecurity"
-    url: /categories/#cybersecurity
+    url: /categories/#cybersecurity/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
