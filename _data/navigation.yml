@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Books Review"
-    url: /categories/#book-review
+    url: /categories/#books-review
   - title: "Python"
     url: /categories/#python
   - title: "Graduation Project Diary"
