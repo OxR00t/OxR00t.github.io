@@ -1,16 +1,14 @@
 ---
-title: "Head First Java 5th edition review"
+title: "Head First Java 5th Edition Review"
 classes: wide
 header:
   teaser: /assets/images/Blogs/Books-Review/Head-First-Java.png
 ribbon: ForestGreen
-description: "reviewing Head First Java 5th edition."
+description: "Reviewing Head First Java 5th Edition Book"
 categories:
   - Books Review
 toc: false
 ---
-
-السلام عليكم ورحمة الله وبركاته, حياكم الله وبياكم ❤️
 
 Hello world, Hossam is here, Welcome to my first post of its kind in reviewing technical books. in this post I'll talk about a great book i was reading for a while "Head First Java 5th edition". 
 
