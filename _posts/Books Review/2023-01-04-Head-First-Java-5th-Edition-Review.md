@@ -1,11 +1,8 @@
-
-![[Head-First-Java.jpg]]
-
 ---
 title: "Head First Java 5th edition review"
 classes: wide
 header:
-  teaser: /assets/images/Blogs/Books-Review/Head-First-Java.jpg
+  teaser: /assets/images/Blogs/Books-Review/Head-First-Java.png
 ribbon: ForestGreen
 description: "reviewing Head First Java 5th edition."
 categories:
