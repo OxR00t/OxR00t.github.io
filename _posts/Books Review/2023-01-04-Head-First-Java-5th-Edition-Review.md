@@ -1,6 +1,3 @@
-
-![[Head-First-Java.jpg]]
-
 ---
 title: "Head First Java 5th edition review"
 classes: wide
