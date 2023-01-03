@@ -8,7 +8,6 @@ description: "What is JWTs and how to use them in order to adding a security lay
 categories:
   - Graduation Project Diary
   - Python
-  - Cybersecurity
 toc: false
 ---
 
