@@ -7,7 +7,6 @@ ribbon: ForestGreen
 description: "What is JWTs and how to use them in order to adding a security layer on our API. . . . ."
 categories:
   - Graduation Project Diary
-  - Python
 toc: false
 ---
 
