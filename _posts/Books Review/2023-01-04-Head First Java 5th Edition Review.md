@@ -63,4 +63,4 @@ I also like their good use of illustrations, sometimes funny, like the one below
 
 Overall, Head First Java 5th Edition is an excellent resource for anyone looking to learn or improve their knowledge of Java programming. It provides a comprehensive overview of the language while also providing plenty of examples and exercises that can help readers gain a better understanding of how it works. Highly recommended!
 
-At the end of this post i wanna thank [Mr. Muhamed](http://www.linkedin.com/in/lupate) for recommending this great book that's helped me learn java in an organized, funny, and easy way. 
+At the end of this post i wanna thank [Mr. Muhammad Soliman](http://www.linkedin.com/in/lupate) for recommending this great book that's helped me learn java in an organized, funny, and easy way. 
