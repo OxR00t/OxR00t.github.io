@@ -2,12 +2,12 @@
 main:
   - title: "Books Review"
     url: /categories/#books-review/
-  - title: "Graduation Project Diary"
-    url: /categories/#graduation-project-diary/
+  - title: "Graduation Project"
+    url: /categories/#graduation-project/
   - title: "Projects"
     url: /categories/#projects/
-  - title: "Cybersecurity"
-    url: /categories/#cybersecurity/
+  #- title: "Cybersecurity"
+  #  url: /categories/#cybersecurity/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
